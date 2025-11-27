@@ -1,6 +1,6 @@
-# Online Banking (C) student number: 2024550332
+# C-Basics-week1
 
-Console-based online banking system written in C. It provides local account management and transaction recording using simple binary file storage.
+School project — console-based online banking system written in C. It provides local account management and transaction recording using simple binary file storage.
 
 ## Features
 - Register account with name, account number, and password
